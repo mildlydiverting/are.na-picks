@@ -4,6 +4,8 @@ A local browser tool that pulls a random item from each of up to four [Are.na](h
 
 ![Screenshot showing four blocks and the basic interface](example-output/Screenshot%202026-03-19%20at%2016.56.30.png)
 
+![Screenshot showing four blocks and the basic interface](example-output/Screenshot%202026-03-19%20at%2016.56.55.png)
+
 ## Files
 
 ```
@@ -48,7 +50,7 @@ Double-click it, or drag it onto a browser window. No server or build step neede
 ## Saved zip structure
 
 ```
-arena-picks-2026-03-19-14-32.zip
+arena-picks-YYYY-MM-DD-HH-MM.zip
   index.md
   images/
     block-12345.jpg
@@ -56,7 +58,7 @@ arena-picks-2026-03-19-14-32.zip
     ...
 ```
 
-The markdown includes the board name, Are.na block link, source URL (for links), and inline image references using relative paths.
+The [markdown output (example here)](example-output/arena-picks-2026-03-19-17-01/index.md) includes the board name, Are.na block link, source URL (for links), and inline image references using relative paths. 
 
 ## Customising
 
