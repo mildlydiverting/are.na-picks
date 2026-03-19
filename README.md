@@ -2,6 +2,8 @@
 
 A local browser tool that pulls a random item from each of up to four [Are.na](https://www.are.na) boards and displays them side by side. Shuffle to get a new set, lock cards you want to keep, and save the whole thing as a portable zip.
 
+![Screenshot showing four blocks and the basic interface](example-output/Screenshot%202026-03-19%20at%2016.56.30.png)
+
 ## Files
 
 ```
